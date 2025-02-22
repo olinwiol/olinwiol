@@ -1,11 +1,10 @@
-### 🔆 Olin
+## 🔆 Olin
 
-
-⏺️ About me
+###⏺️ About me
 
 **`computer science student`** **`sweden`** **`
 
-⏹️ Languages
+###⏹️ Languages
 
 **`python`** **`java`** **`C`** 
 
