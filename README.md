@@ -2,7 +2,7 @@
 
 ### ⏺️ About me
 
-**`computer science student`** **`sweden`** **`
+**`computer science student`** **`sweden`** 
 
 ### ⏹️ Languages
 
