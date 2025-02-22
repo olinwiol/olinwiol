@@ -1,7 +1,13 @@
-# 🃏 Olin
-**`computer science student`**
+### 🔆 Olin
 
 
+⏺️ About me
+
+**`computer science student`** **`sweden`** **`
+
+⏹️ Languages
+
+**`python`** **`java`** **`C`** 
 
 <!--
 **olinwiol/olinwiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
