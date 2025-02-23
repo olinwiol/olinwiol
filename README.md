@@ -9,8 +9,9 @@
 **`python`** **`java`** **`C`** 
 
 ### 🖥️ Specs
-Full spec-list and statistics at [userbenchmark.com](https://www.userbenchmark.com/UserRun/69801292)
 **`MSI Z390 PRO CARBON`** **`Intel Core i7-9700k`** **`Nvidia RTX 2080`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`**
+
+Full spec-list and statistics at [userbenchmark.com](https://www.userbenchmark.com/UserRun/69801292) 
 
         
     
