@@ -14,9 +14,8 @@
 👾 Intel Core i7-9700k - 101.9%
 🎮 Nvidia RTX 2080 - 128.8%
 🎲 4 x Kingston DDR4 3200 MHz - 101.7%
-
-Full spec list at;
-        https://www.userbenchmark.com/UserRun/69801292
+Full spec list at
+        `https://www.userbenchmark.com/UserRun/69801292`
     
 
 <!--
