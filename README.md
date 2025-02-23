@@ -15,7 +15,7 @@
 🎮 Nvidia RTX 2080 - 128.8%
 🎲 4 x Kingston DDR4 3200 MHz - 101.7%
 Full spec list at
-        `https://www.userbenchmark.com/UserRun/69801292`
+        [UserBenchmark](https://www.userbenchmark.com/UserRun/69801292)
     
 
 <!--
