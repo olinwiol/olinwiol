@@ -10,10 +10,10 @@
 
 ### 🖥️ Specs
 
-  📔 MSI Z390 PRO CARBON
-  👾 Intel Core i7-9700k - 101.9%
-  🎮 Nvidia RTX 2080 - 128.8%
-  🎲 4 x Kingston DDR4 3200 MHz - 101.7%
+    📔 MSI Z390 PRO CARBON
+    👾 Intel Core i7-9700k - 101.9%
+    🎮 Nvidia RTX 2080 - 128.8%
+    🎲 4 x Kingston DDR4 3200 MHz - 101.7%
 
 <!--
 **olinwiol/olinwiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
