@@ -10,10 +10,10 @@
 
 ### 🖥️ Specs
 
-📔 MSI Z390 PRO CARBON <br>
-👾 Intel Core i7-9700k - 101.9% <br>
-🎮 Nvidia RTX 2080 - 128.8% <br>
-🎲 4 x Kingston DDR4 3200 MHz - 101.7% <br>
+📔 **`MSI Z390 PRO CARBON`**
+👾 **`Intel Core i7-9700k`**
+🎮 **`Nvidia RTX 2080`**
+🎲 **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`**
 Full spec list at
         [UserBenchmark](https://www.userbenchmark.com/UserRun/69801292)
     
