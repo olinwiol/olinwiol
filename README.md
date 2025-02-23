@@ -7,14 +7,7 @@
 ### ⏹️ Languages
 
 **`python`** **`java`** **`C`** 
-
-### 🖥️ Specs
-**`MSI Z390 PRO CARBON`** **`Intel Core i7-9700k`** **`Nvidia RTX 2080`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`** **`Kingston DDR4 3200 MHz`**
-
-Full spec-list and statistics at [userbenchmark.com](https://www.userbenchmark.com/UserRun/69801292) 
-
-        
-    
+ 
 
 <!--
 **olinwiol/olinwiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
